@@ -1,26 +1,25 @@
 // Project Data
 const projects = [
   {
-    title: "Help Desk System",
+    title: "LoopPop",
     description:
-      "A comprehensive ticketing system for medicine e-commerce platform built with MERN stack.",
-    rating: 4.5,
+      "A comprehensive social web application using Springboot for the Backend and PostgreSQL for the database. I still use the standard HTML, CSS, and JS.",
+    rating: 4.1,
   },
   {
-    title: "E-commerce Platform",
+    title: "Behind Me",
     description:
-      "Full-featured online shopping platform with payment integration and admin dashboard.",
+      "A Visual Novel with some side-scrolling video game aspect programmed using Pygame and not Renpy.",
     rating: 4.0,
   },
   {
-    title: "Portfolio Website",
+    title: "EduTrack",
     description:
-      "Personal portfolio website showcasing projects and skills, built with React.",
+      "A Simple LMS that uses React and tailwind for its frontend and utilize mySQL for the database. Node and Express for the backend.",
     rating: 5.0,
   },
 ];
 
-// Programming Languages Data
 const languages = [
   {
     name: "JavaScript",
